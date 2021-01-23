@@ -38,7 +38,7 @@ let handler  = async (m, { conn, args, usedPrefix, command }) => {
     global.conns.push(conn)
   } else conn.reply(m.chat, 'Não é possível criar bots dentro de bots!\n\nhttps://wa.me/' + global.conn.user.jid.split`@`[0] + '?text=.jadibot', m)
 }
-handler.command = /^jadibot$/i
+handler.command = false
 handler.owner = false
 handler.mods = false
 handler.premium = false
@@ -46,7 +46,7 @@ handler.group = false
 handler.private = false
 
 handler.admin = false
-handler.botAdmin = false
+handler.botAdmin = /^jadibot$/i
 
 handler.fail = null
 
