@@ -11,7 +11,7 @@ Feito em javascript via NodeJs
 ➥ Matheus
 
 〘 FALE COM 〙 
-➥ contato : https://wa.me/qr/KADPB6Y2CXFCN1
+➥ contato : https://wa.me/message/ITUX3SPZN5JPK1
 
 
 〘 WERBERT 〙 
