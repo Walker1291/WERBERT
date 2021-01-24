@@ -4,7 +4,7 @@ const { MessageType } = require('@adiwajshing/baileys')
 
 let handler  = async (m, { conn, args }) => {
   let q = m.quoted ? { message: { [m.quoted.mtype]: m.quoted }} : m
-  if (/image/.test((m.quoted ? m.quoted : m).mtype)) {
+  if (/image/.test((m.quoted ? m.quoted : m.msg).mimetype || '')) {
     let img = await conn.downloadM(q)
     if (!img) throw img
     let stiker = await sticker(img)
@@ -18,6 +18,8 @@ let handler  = async (m, { conn, args }) => {
     })
   }
 }
+handler.help = ['stiker (caption|reply media)', 'stiker <url>']
+handler.tags = ['sticker']
 handler.command = /^stic?ker$/i
 handler.owner = false
 handler.mods = false
@@ -87,4 +89,3 @@ function uploadImage(buffer) {
             reject(e)
         }
     })
-}
