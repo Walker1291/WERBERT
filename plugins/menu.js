@@ -120,7 +120,7 @@ Como adicionar XP: +1 Exp / mensagem normal +10 Exp / comando
   ┠❥ .ping 
   ┠❥ .speed ●ping rápido●
   ┠❥ .estilo <texto>
-  ┠❥ .ttp <texto> ●criar figura com nome●
+  ┠❥ .tts ●idioma●texto●
   ╰═══════════════
 💰💰💰💰💰💰💰💰💰💰💰💰💰💰
   ╭════ • ›「 Torne-se um Bot 」
