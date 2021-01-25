@@ -69,7 +69,6 @@ Como adicionar XP: +1 Exp / mensagem normal +10 Exp / comando
   ┠❥ .stiker (legenda | mídia de resposta)
   ┠❥ .stiker <url>
   ┠❥ .toimg (resposta)
-  ┠❥ .ttp <texto>
   ┠❥ .tts (idioma|texto)
   ╰═══════════════
 😻😻😻😻😻😻😻😻😻😻😻😻😻😻
