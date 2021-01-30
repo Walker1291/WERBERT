@@ -35,7 +35,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
  [WERBERT-MODS] 
 👻👻👻👻👻👻👻👻👻👻👻👻👻👻
 🛢🛢🛢🛢🛢🛢🛢🛢🛢🛢🛢🛢🛢🛢
-SALVE, ${name} 👋 AJUDE O CANAL OSCAR PARA AJUDAR O BOT!🤗
+SALVE, ${name} 👋 AJUDE O CANAL WERBERT PARA AJUDAR O BOT!🤗
 Exp: ${exp}
 💥💥💥💥💥💥💥💥💥💥💥💥💥💥
 📟 hora: ${time}
@@ -62,14 +62,14 @@ Como adicionar XP: +1 Exp / mensagem normal +10 Exp / comando
   ┠❥ .buyall 
   ┠❥ .daily ●adicionar +500XP●
   ┠❥ .claim
-  ┠❥ .leaderboard [número do usuário]
+  ┠❥ .leaderboard [Rank dos usuários]
   ╰═══════════════
 👾👾👾👾👾👾👾👾👾👾👾👾👾👾
   ╭════ • ›「 Adesivo 」
   ┠❥ .stiker (legenda | mídia de resposta)
   ┠❥ .stiker <url>
-  ┠❥ .toimg (resposta)
-  ┠❥ .tts (idioma|texto)
+  ┠❥ .toimg ●transforma figura em imagem●
+  ┠❥ .tts (idioma|texto que deve fala)
   ╰═══════════════
 😻😻😻😻😻😻😻😻😻😻😻😻😻😻
   ╭════ • ›「 Conchas mágicas 」
@@ -80,7 +80,7 @@ Como adicionar XP: +1 Exp / mensagem normal +10 Exp / comando
 ☻☻☻☻☻☻☻☻☻☻☻☻☻☻
   ╭════ • ›「 Cotações 」
   ┠❥ .cantada ●cantadas e frases●
-  ┠❥ .deserto 
+  ┠❥ .deserto ●musica arabica●
   ┠❥ .musicas ●muita musica●
   ╰══════════════
 💫💫💫💫💫💫💫💫💫💫💫💫💫💫
@@ -119,7 +119,7 @@ Como adicionar XP: +1 Exp / mensagem normal +10 Exp / comando
   ┠❥ .spoiler <texto> |  <texto>
   ┠❥ .ping 
   ┠❥ .speed ●ping rápido●
-  ┠❥ .estilo <texto>
+  ┠❥ .estilo ●texto com outras fontes●
   ┠❥ .tts ●idioma●texto●
   ╰═══════════════
 💰💰💰💰💰💰💰💰💰💰💰💰💰💰
