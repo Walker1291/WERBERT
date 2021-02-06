@@ -4,12 +4,12 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 Feito em javascript via NodeJs
 
 ➥ TRADUZIDO EM PORTUGUÊS
-➥ Instagram: https://instagram.com/matheus.l.o2600?igshid=3fauieovdedc
-➥ YouTube: OSCAR
+➥ Instagram do meu amigo: https://instagram.com/matheus.l.o2600?igshid=3fauieovdedc
+➥ YouTube: WERBERT
 
 〘 Graças a 〙 
-➥ Matheus
-
+➥ WERBERT
+            [AMIGO: MATHEUS]
 〘 FALE COM 〙 
 ➥ contato : https://wa.me/message/ITUX3SPZN5JPK1
 
